@@ -11,3 +11,11 @@ Mettez vos images utilisés dans :file_folder: `/image`. Vous y trouverez le fic
 
 Voir les maquettes en format PNG dans :file_folder: `/mockup`.
 
+## Preview
+### Desktop preview
+![Desktop](./mockup/desktop-preview.png)
+---
+### Mobile preview
+![mobile](./mockup/mobile-preview.png)
+
+
